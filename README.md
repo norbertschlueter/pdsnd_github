@@ -7,7 +7,10 @@
 Udacity project: Analysis of bikeshare data
 
 ### Description
-The software supports the analysis of bikeshare dada.
+The software supports the analysis of bikeshare data.
+The user can decide for which city he wants for analyse the data.
+The user can filter the data for certain month or day of the week.
+The user can calculate the most popular time of the day as well as the most popular stations and trips.
 
 
 ### Files used
