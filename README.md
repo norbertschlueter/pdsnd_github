@@ -4,13 +4,15 @@
 2023/02/06
 
 ### Project Title
-Replace the Project Title
+Udacity project: Analysis of bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+The software supports the analysis of bikeshare dada.
+
 
 ### Files used
-Include the files used
+The Python file includes the code to analyse the data.
+The csv-files for Washington, Chicago and New York.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
