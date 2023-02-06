@@ -13,10 +13,12 @@ The user can filter the data for certain month or day of the week.
 The user can calculate the most popular time of the day as well as the most popular stations and trips.
 
 
+
 ### Files used
 The Python file includes the code to analyse the data.
 The csv-files for Washington, Chicago and New York.
 
+
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The basis of the Python code is a file from the Udacity course.
 
